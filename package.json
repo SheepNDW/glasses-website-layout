@@ -1,0 +1,24 @@
+{
+  "name": "glasses-website-layout",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.2"
+  },
+  "devDependencies": {
+    "@iconify-json/ic": "^1.1.7",
+    "@iconify-json/ph": "^1.1.2",
+    "@vitejs/plugin-vue": "^3.0.1",
+    "sass": "^1.54.0",
+    "unplugin-icons": "^0.14.7",
+    "unplugin-vue-components": "^0.21.1",
+    "vite": "^3.0.1",
+    "vite-plugin-windicss": "^1.8.7",
+    "windicss": "^3.5.6"
+  }
+}
